@@ -6,6 +6,7 @@ import { Injectable } from '@angular/core';
 export class EklogikaDataService {
 
   public data: any;
+  public name: string;
 
   constructor() { }
 }

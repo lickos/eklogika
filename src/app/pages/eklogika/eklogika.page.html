@@ -1,9 +1,21 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>eklogika</ion-title>
+    <ion-title>Εκλογικά Κέντρα {{name}}</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
-
+  <ion-list>
+    <ion-item *ngFor="let data of datas">
+      <ion-avatar slot="start">
+        <label>{{data.eklogiko_tmima}}</label>
+      </ion-avatar>
+      <ion-label>
+        <h3 text-wrap>{{data.dimotiki_enotita}}</h3>
+        <h4 text-wrap>{{data.eklogiko_diamerisma}}</h4>
+        <p text-wrap>{{data.eklogeis}}</p>
+        <small text-wrap>{{data.katastima}}</small>
+      </ion-label>
+    </ion-item>
+  </ion-list>
 </ion-content>

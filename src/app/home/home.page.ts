@@ -17,8 +17,9 @@ export class HomePage implements OnInit {
   ngOnInit() {
   }
 
-  openDiamerisma(data: string) {
+  openDiamerisma(data: string, name: string) {
     this.dataService.data = data;
+    this.dataService.name = name;
     this.router.navigate(['/eklogika'])
   }
 
