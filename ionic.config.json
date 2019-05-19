@@ -1,5 +1,7 @@
 {
   "name": "eklogika",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

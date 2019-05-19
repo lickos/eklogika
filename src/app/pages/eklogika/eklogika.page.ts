@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { EklogikaDataService } from './../../services/eklogika-data.service';
-import { geodata } from './../../constants/geodata';
-import { genika } from './../../constants/genika'
+import { Router } from '@angular/router';
+import { Geolocation } from '@ionic-native/geolocation/ngx';
 
 @Component({
   selector: 'app-eklogika',
@@ -11,24 +11,30 @@ import { genika } from './../../constants/genika'
 export class EklogikaPage implements OnInit {
   datas: any;
   name: string;
-  geodata: any;
-  genika: any;
 
-  constructor(public dataService: EklogikaDataService) { }
+  constructor(public dataService: EklogikaDataService, private router: Router, public geolocation: Geolocation) { }
 
   ngOnInit() {
-    this.geodata = geodata;
     this.datas = this.dataService.data;
-    this.genika = genika
     this.name = this.dataService.name;
-    for (let x of this.geodata) {
-      for (let y of this.genika) {
-        if (x.Name == y.eklogiko_tmima) {
-          y.Latitude = x.Latitude;
-          y.Longitude = x.Longitude
-        }
-      }
-    }
-    console.log(this.genika)
+    let watch = this.geolocation.watchPosition();
+    watch.subscribe((resp) => {
+      let lat = resp.coords.latitude;
+      let lng = resp.coords.longitude;
+      let myloc = { 'lat': lat, 'lng': lng }
+      this.dataService.myLoc = myloc;
+      console.log(this.dataService.myLoc)
+    });
+  }
+
+  openMap(data) {
+    let lat = parseFloat(data.Latitude);
+    let lng = parseFloat(data.Longitude);
+    let cords = { 'lat': lat, 'lng': lng };
+    this.dataService.cords = cords
+    this.dataService.eklogiko_diamerisma = data.eklogiko_diamerisma
+    this.dataService.eklogeis = data.eklogeis;
+    this.dataService.tmima = data.eklogiko_tmima;
+    this.router.navigate(['/maps'])
   }
 }

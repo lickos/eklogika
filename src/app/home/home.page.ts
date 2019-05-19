@@ -3,6 +3,7 @@ import { diamerismata } from './../constants/diamerismata';
 import { EklogikaDataService } from './../services/eklogika-data.service';
 import { Router } from '@angular/router';
 
+
 @Component({
   selector: 'app-home',
   templateUrl: 'home.page.html',
@@ -11,8 +12,11 @@ import { Router } from '@angular/router';
 
 
 export class HomePage implements OnInit {
+  geo_data: any;
+  no_geo: any;
   diamerismata: any = diamerismata;
-  constructor(public dataService: EklogikaDataService, private router: Router) { }
+  constructor(public dataService: EklogikaDataService, private router: Router) {
+  }
 
   ngOnInit() {
   }

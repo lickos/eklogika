@@ -1,9 +1,30 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>maps</ion-title>
+    <ion-title>
+      {{tmima}} - {{eklogiko_diamerisma}}
+    </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
+  <ion-fab vertical="center" horizontal="start">
+    <ion-fab-button color="danger">
+      <ion-icon name="md-navigate"></ion-icon>
+    </ion-fab-button>
 
+    <ion-fab-list side="top">
+      <ion-fab-button color="medium" (click)="calculateRoute('DRIVING')">
+        <ion-icon name="ios-car" color="dark"></ion-icon>
+      </ion-fab-button>
+      <ion-fab-button color="medium" (click)="calculateRoute('WALKING')">
+        <ion-icon name="md-walk" color="dark"></ion-icon>
+      </ion-fab-button>
+    </ion-fab-list>
+
+    <ion-fab-list side="start">
+      <ion-fab-button>Vimeo</ion-fab-button>
+    </ion-fab-list>
+
+  </ion-fab>
+  <div #mapElement class="map"></div>
 </ion-content>

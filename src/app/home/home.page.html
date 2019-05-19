@@ -8,10 +8,11 @@
 
 <ion-content>
   <div class="ion-padding">
+    <ion-button (click)="convertIt()">Press Me!</ion-button>
     <h2>Επιλέξτε Δημοτική Ενότητα</h2>
     <ion-list>
       <ion-item *ngFor="let item of diamerismata" (click)='openDiamerisma(item.data, item.name)' detail>
-        <ion-label>{{item.name}}</ion-label>
+        <ion-label text-wrap>{{item.name}}</ion-label>
       </ion-item>
     </ion-list>
   </div>

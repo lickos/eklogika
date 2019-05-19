@@ -6,7 +6,7 @@
 
 <ion-content>
   <ion-list>
-    <ion-item *ngFor="let data of datas">
+    <ion-item *ngFor="let data of datas" detail (click)='openMap(data)'>
       <ion-avatar slot="start">
         <label>{{data.eklogiko_tmima}}</label>
       </ion-avatar>
