@@ -1,5 +1,6 @@
-import { Component, OnInit, AfterContentInit, ElementRef, NgZone, ViewChild } from '@angular/core';
+import { Component, OnInit, AfterContentInit, ViewChild } from '@angular/core';
 import { EklogikaDataService } from './../../services/eklogika-data.service';
+import { AlertController } from '@ionic/angular';
 
 
 declare var google: any;
@@ -19,14 +20,16 @@ export class MapsPage implements AfterContentInit {
   tmima: string;
   eklogiko_diamerisma: string;
   myloc: any;
+  katastima: string;
 
-  constructor(public dataService: EklogikaDataService) {
+  constructor(public dataService: EklogikaDataService, public alertController: AlertController) {
     this.location = this.dataService.cords
     this.myloc = this.dataService.myLoc
     this.name = this.dataService.name
     this.eklogeis = this.dataService.eklogeis;
     this.tmima = this.dataService.tmima;
     this.eklogiko_diamerisma = this.dataService.eklogiko_diamerisma
+    this.katastima = this.dataService.katastima
   }
 
   ngAfterContentInit(): void {
@@ -78,6 +81,7 @@ export class MapsPage implements AfterContentInit {
   }
 
   calculateRoute(mode: string) {
+    this.presentAlert()
     let myLat = this.myloc.lat.toString();
     let myLng = this.myloc.lng.toString();
     let myPostition = myLat + ',' + myLng;
@@ -97,6 +101,10 @@ export class MapsPage implements AfterContentInit {
         directionsDisplay.setDirections(result);
       }
     });
+  }
+
+  async presentAlert() {
+    alert('ΠΡΟΣΟΧΗ!!! - Οι οδηγίες για desktop computers δεν παρουσιάζονται σωστά')
   }
 
 }

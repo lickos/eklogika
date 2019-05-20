@@ -1,7 +1,7 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>
-      {{tmima}} - {{eklogiko_diamerisma}}
+    <ion-title text-wrap>
+      {{tmima}} - {{eklogiko_diamerisma}} - {{katastima}}
     </ion-title>
   </ion-toolbar>
 </ion-header>
@@ -19,10 +19,6 @@
       <ion-fab-button color="medium" (click)="calculateRoute('WALKING')">
         <ion-icon name="md-walk" color="dark"></ion-icon>
       </ion-fab-button>
-    </ion-fab-list>
-
-    <ion-fab-list side="start">
-      <ion-fab-button>Vimeo</ion-fab-button>
     </ion-fab-list>
 
   </ion-fab>

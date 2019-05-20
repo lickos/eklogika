@@ -16,9 +16,9 @@ export class EklogikaPage implements OnInit {
 
   ngOnInit() {
     this.datas = this.dataService.data;
+    console.log(this.datas)
     this.name = this.dataService.name;
-    let watch = this.geolocation.watchPosition();
-    watch.subscribe((resp) => {
+    this.geolocation.getCurrentPosition().then((resp) => {
       let lat = resp.coords.latitude;
       let lng = resp.coords.longitude;
       let myloc = { 'lat': lat, 'lng': lng }
@@ -35,6 +35,7 @@ export class EklogikaPage implements OnInit {
     this.dataService.eklogiko_diamerisma = data.eklogiko_diamerisma
     this.dataService.eklogeis = data.eklogeis;
     this.dataService.tmima = data.eklogiko_tmima;
+    this.dataService.katastima = data.katastima;
     this.router.navigate(['/maps'])
   }
 }

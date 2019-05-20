@@ -14,6 +14,7 @@ export class EklogikaDataService {
   public tmima: string;
   public eklogiko_diamerisma: string;
   public myLoc: any;
+  public katastima: string;
 
   constructor() { }
 }
