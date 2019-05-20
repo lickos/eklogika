@@ -2,6 +2,9 @@ import { Component, OnInit } from '@angular/core';
 import { EklogikaDataService } from './../../services/eklogika-data.service';
 import { Router } from '@angular/router';
 import { Geolocation } from '@ionic-native/geolocation/ngx';
+import { Platform } from '@ionic/angular';
+import { InAppBrowser } from '@ionic-native/in-app-browser/ngx';
+
 
 @Component({
   selector: 'app-eklogika',
@@ -12,7 +15,7 @@ export class EklogikaPage implements OnInit {
   datas: any;
   name: string;
 
-  constructor(public dataService: EklogikaDataService, private router: Router, public geolocation: Geolocation) { }
+  constructor(public dataService: EklogikaDataService, private iab: InAppBrowser, private platform: Platform, private router: Router, public geolocation: Geolocation) { }
 
   ngOnInit() {
     this.datas = this.dataService.data;
@@ -37,5 +40,9 @@ export class EklogikaPage implements OnInit {
     this.dataService.tmima = data.eklogiko_tmima;
     this.dataService.katastima = data.katastima;
     this.router.navigate(['/maps'])
+  }
+
+  openDocument(link: string) {
+    const browser = this.iab.create(link);
   }
 }
