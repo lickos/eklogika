@@ -6,16 +6,20 @@
 
 <ion-content>
   <ion-list>
-    <ion-item *ngFor="let data of datas" detail (click)='openMap(data)'>
+    <ion-item *ngFor="let data of datas" detail>
       <ion-avatar slot="start">
         <label>{{data.eklogiko_tmima}}</label>
       </ion-avatar>
-      <ion-label>
+      <ion-label (click)='openMap(data)'>
         <h3 text-wrap>{{data.dimotiki_enotita}}</h3>
         <h4 text-wrap>{{data.eklogiko_diamerisma}}</h4>
         <p text-wrap>{{data.eklogeis}}</p>
         <small text-wrap>{{data.katastima}}</small>
       </ion-label>
+      <a href='{{data.link}}' target="_blank">
+        <ion-button *ngIf='data.katopsi=="ΝΑΙ"'>ΚΑΤΟΨΗ
+        </ion-button>
+      </a>
     </ion-item>
   </ion-list>
 </ion-content>

@@ -9,7 +9,8 @@ export const diamerismata = [
                 "katastima": "ΘΥΜΙΑΝΑ - Δημοτικό Σχολείο - Θυμιανά, 82100, ΘΥΜΙΑΝΑ - Προκάτ αίθουσα ",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.31430713",
-                "Longitude": "26.13111856"
+                "Longitude": "26.13111856",
+                'link': 'assets/pdfs/Θυμιανά/Θυμιανά_Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "5Β",
@@ -19,7 +20,8 @@ export const diamerismata = [
                 "katastima": "ΘΥΜΙΑΝΑ - Δημοτικό Σχολείο - Θυμιανά, 82100, ΘΥΜΙΑΝΑ - Προκάτ αίθουσα ",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.31429052",
-                "Longitude": "26.13118092"
+                "Longitude": "26.13118092",
+                'link': 'assets/pdfs/Θυμιανά/Θυμιανά_Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "6Α",
@@ -29,7 +31,8 @@ export const diamerismata = [
                 "katastima": "ΘΥΜΙΑΝΑ - Δημοτικό Σχολείο - Θυμιανά, 82100, ΘΥΜΙΑΝΑ - Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.31462982",
-                "Longitude": "26.13132699"
+                "Longitude": "26.13132699",
+                'link': 'assets/pdfs/Θυμιανά/Θυμιανά_Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "6Β",
@@ -39,7 +42,8 @@ export const diamerismata = [
                 "katastima": "ΘΥΜΙΑΝΑ - Δημοτικό Σχολείο - Θυμιανά, 82100, ΘΥΜΙΑΝΑ - Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.31468405",
-                "Longitude": "26.13136994"
+                "Longitude": "26.13136994",
+                'link': 'assets/pdfs/Θυμιανά/Θυμιανά_Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "7Α",
@@ -49,7 +53,8 @@ export const diamerismata = [
                 "katastima": "ΘΥΜΙΑΝΑ - Δημοτικό Σχολείο - Θυμιανά, 82100, ΘΥΜΙΑΝΑ - Προκάτ αίθουσα ",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.31465301",
-                "Longitude": "26.13144614"
+                "Longitude": "26.13144614",
+                'link': 'assets/pdfs/Θυμιανά/Θυμιανά_Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "7Β",
@@ -59,7 +64,8 @@ export const diamerismata = [
                 "katastima": "ΘΥΜΙΑΝΑ - Δημοτικό Σχολείο - Θυμιανά, 82100, ΘΥΜΙΑΝΑ - Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.31473906",
-                "Longitude": "26.13154816"
+                "Longitude": "26.13154816",
+                'link': 'assets/pdfs/Θυμιανά/Θυμιανά_Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "8Α",
@@ -69,7 +75,8 @@ export const diamerismata = [
                 "katastima": "ΘΥΜΙΑΝΑ - Δημοτικό Σχολείο - Θυμιανά, 82100, ΘΥΜΙΑΝΑ - Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.3147767",
-                "Longitude": "26.13144789"
+                "Longitude": "26.13144789",
+                'link': 'assets/pdfs/Θυμιανά/Θυμιανά_Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "8Β",
@@ -79,7 +86,8 @@ export const diamerismata = [
                 "katastima": "ΘΥΜΙΑΝΑ - Δημοτικό Σχολείο - Θυμιανά, 82100, ΘΥΜΙΑΝΑ - Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.31476061",
-                "Longitude": "26.13149659"
+                "Longitude": "26.13149659",
+                'link': 'assets/pdfs/Θυμιανά/Θυμιανά_Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "9Α",
@@ -89,7 +97,8 @@ export const diamerismata = [
                 "katastima": "ΘΥΜΙΑΝΑ - Δημοτικό Σχολείο - Θυμιανά, 82100, ΘΥΜΙΑΝΑ - Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.31470907",
-                "Longitude": "26.13162832"
+                "Longitude": "26.13162832",
+                'link': 'assets/pdfs/Θυμιανά/Θυμιανά_Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "9Β",
@@ -99,7 +108,8 @@ export const diamerismata = [
                 "katastima": "ΘΥΜΙΑΝΑ - Δημοτικό Σχολείο - Θυμιανά, 82100, ΘΥΜΙΑΝΑ - Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.31469145",
-                "Longitude": "26.13169903"
+                "Longitude": "26.13169903",
+                'link': 'assets/pdfs/Θυμιανά/Θυμιανά_Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "10",
@@ -1049,7 +1059,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40540688",
-            "Longitude": "26.13317244"
+            "Longitude": "26.13317244",
+            'link': 'assets/pdfs/Βροντάδο/όροφος_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "86Β",
@@ -1059,7 +1070,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40527682",
-            "Longitude": "26.13368499"
+            "Longitude": "26.13368499",
+            'link': 'assets/pdfs/Βροντάδο/όροφος_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "87Α",
@@ -1069,7 +1081,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40541319",
-            "Longitude": "26.13305678"
+            "Longitude": "26.13305678",
+            'link': 'assets/pdfs/Βροντάδο/όροφος_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "87Β",
@@ -1079,7 +1092,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40541029",
-            "Longitude": "26.13310812"
+            "Longitude": "26.13310812",
+            'link': 'assets/pdfs/Βροντάδο/όροφος_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "88Α",
@@ -1089,7 +1103,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40536472",
-            "Longitude": "26.13305507"
+            "Longitude": "26.13305507",
+            "link": './../../assets/pdfs/Βροντάδο/Ισόγειο_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "88Β",
@@ -1099,7 +1114,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40536612",
-            "Longitude": "26.13310586"
+            "Longitude": "26.13310586",
+            "link": './../../assets/pdfs/Βροντάδο/Ισόγειο_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "89Α",
@@ -1109,7 +1125,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.4053683",
-            "Longitude": "26.13315603"
+            "Longitude": "26.13315603",
+            "link": './../../assets/pdfs/Βροντάδο/Ισόγειο_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "89Β",
@@ -1119,7 +1136,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40536368",
-            "Longitude": "26.13321394"
+            "Longitude": "26.13321394",
+            "link": './../../assets/pdfs/Βροντάδο/Ισόγειο_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "90Α",
@@ -1129,7 +1147,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.4053728",
-            "Longitude": "26.13352317"
+            "Longitude": "26.13352317",
+            "link": './../../assets/pdfs/Βροντάδο/Ισόγειο_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "90Β",
@@ -1139,7 +1158,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40540581",
-            "Longitude": "26.13352711"
+            "Longitude": "26.13352711",
+            "link": './../../assets/pdfs/Βροντάδο/Ισόγειο_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "91Α",
@@ -1149,7 +1169,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40552411",
-            "Longitude": "26.13344201"
+            "Longitude": "26.13344201",
+            "link": './../../assets/pdfs/Βροντάδο/Ισόγειο_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "91Β",
@@ -1159,7 +1180,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40548769",
-            "Longitude": "26.13352997"
+            "Longitude": "26.13352997",
+            "link": './../../assets/pdfs/Βροντάδο/Ισόγειο_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "92Α",
@@ -1169,7 +1191,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40558209",
-            "Longitude": "26.13345089"
+            "Longitude": "26.13345089",
+            "link": './../../assets/pdfs/Βροντάδο/Ισόγειο_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "92Β",
@@ -1179,7 +1202,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40555043",
-            "Longitude": "26.13353645"
+            "Longitude": "26.13353645",
+            "link": './../../assets/pdfs/Βροντάδο/Ισόγειο_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "93Α",
@@ -1189,7 +1213,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40540359",
-            "Longitude": "26.13357441"
+            "Longitude": "26.13357441",
+            'link': 'assets/pdfs/Βροντάδο/όροφος_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "93Β",
@@ -1199,7 +1224,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40537318",
-            "Longitude": "26.13356924"
+            "Longitude": "26.13356924",
+            'link': 'assets/pdfs/Βροντάδο/όροφος_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "94Α",
@@ -1209,7 +1235,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40553527",
-            "Longitude": "26.13339836"
+            "Longitude": "26.13339836",
+            'link': 'assets/pdfs/Βροντάδο/όροφος_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "94Β",
@@ -1219,7 +1246,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.4054903",
-            "Longitude": "26.13357747"
+            "Longitude": "26.13357747",
+            'link': 'assets/pdfs/Βροντάδο/όροφος_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "95Α",
@@ -1229,7 +1257,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40559266",
-            "Longitude": "26.13340568"
+            "Longitude": "26.13340568",
+            'link': 'assets/pdfs/Βροντάδο/όροφος_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "95Β",
@@ -1239,7 +1268,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40555179",
-            "Longitude": "26.13358751"
+            "Longitude": "26.13358751",
+            'link': 'assets/pdfs/Βροντάδο/όροφος_γυμνασίου.pdf'
         },
         {
             "eklogiko_tmima": "96Α",
@@ -1249,7 +1279,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ - Ισόγεια Αίθουσα ΕΠΑΛ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40578412",
-            "Longitude": "26.13371858"
+            "Longitude": "26.13371858",
+            "link": './../../assets/pdfs/Βροντάδο/ΕΠΑΛ_ΙΣΟΓΕΙΟ.pdf'
         },
         {
             "eklogiko_tmima": "96Β",
@@ -1259,7 +1290,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ - Αίθουσα ΕΠΑΛ όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40569239",
-            "Longitude": "26.13352808"
+            "Longitude": "26.13352808",
+            "link": './../../assets/pdfs/Βροντάδο/ΕΠΑΛ_ΟΡΟΦΟΣ.pdf'
         },
         {
             "eklogiko_tmima": "97Α",
@@ -1269,7 +1301,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ - Ισόγεια Αίθουσα ΕΠΑΛ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.40566555",
-            "Longitude": "26.13368933"
+            "Longitude": "26.13368933",
+            "link": './../../assets/pdfs/Βροντάδο/ΕΠΑΛ_ΙΣΟΓΕΙΟ.pdf'
         },
         {
             "eklogiko_tmima": "97Β",
@@ -1279,7 +1312,8 @@ export const diamerismata = [
             "katastima": "ΒΡΟΝΤΑΔΟΣ -Γυμνάσιο - Λύκειο  - Κωστή Λω, 82200, ΒΡΟΝΤΑΔΟΣ - Ισόγεια Αίθουσα ΕΠΑΛ",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.4057056",
-            "Longitude": "26.1337038"
+            "Longitude": "26.1337038",
+            "link": './../../assets/pdfs/Βροντάδο/ΕΠΑΛ_ΙΣΟΓΕΙΟ.pdf'
         },
         {
             "eklogiko_tmima": "98",
@@ -1427,7 +1461,8 @@ export const diamerismata = [
                 "katastima": "9ο Δημοτικό Σχολείο - Καρράδειο - Φόρος - Ιωάννη Καρρά 1, 82100, ΧΙΟΣ - Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.38429396",
-                "Longitude": "26.13326316"
+                "Longitude": "26.13326316",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/9ο Δημοτικό/9ο Δημοτικό Ισόγειο.pdf'
             },
             {
                 "eklogiko_tmima": "107Β",
@@ -1437,7 +1472,8 @@ export const diamerismata = [
                 "katastima": "9ο Δημοτικό Σχολείο - Καρράδειο - Φόρος - Ιωάννη Καρρά 1, 82100, ΧΙΟΣ - Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.38428109",
-                "Longitude": "26.13319827"
+                "Longitude": "26.13319827",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/9ο Δημοτικό/9ο Δημοτικό Ισόγειο.pdf'
             },
             {
                 "eklogiko_tmima": "108Α",
@@ -1447,7 +1483,8 @@ export const diamerismata = [
                 "katastima": "9ο Δημοτικό Σχολείο - Καρράδειο - Φόρος - Ιωάννη Καρρά 1, 82100, ΧΙΟΣ - Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.38431773",
-                "Longitude": "26.13334777"
+                "Longitude": "26.13334777",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/9ο Δημοτικό/9ο Δημοτικό Ισόγειο.pdf'
             },
             {
                 "eklogiko_tmima": "108Β",
@@ -1457,7 +1494,8 @@ export const diamerismata = [
                 "katastima": "9ο Δημοτικό Σχολείο - Καρράδειο - Φόρος - Ιωάννη Καρρά 1, 82100, ΧΙΟΣ - 1ος Όροφος",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.38435311",
-                "Longitude": "26.13333909"
+                "Longitude": "26.13333909",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/9ο Δημοτικό/9ο Δημοτικό όροφος.pdf'
             },
             {
                 "eklogiko_tmima": "109Α",
@@ -1467,7 +1505,8 @@ export const diamerismata = [
                 "katastima": "9ο Δημοτικό Σχολείο - Καρράδειο - Φόρος - Ιωάννη Καρρά 1, 82100, ΧΙΟΣ - 1ος Όροφος",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.38413432",
-                "Longitude": "26.13305542"
+                "Longitude": "26.13305542",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/9ο Δημοτικό/9ο Δημοτικό όροφος.pdf'
             },
             {
                 "eklogiko_tmima": "109Β",
@@ -1477,7 +1516,8 @@ export const diamerismata = [
                 "katastima": "9ο Δημοτικό Σχολείο - Καρράδειο - Φόρος - Ιωάννη Καρρά 1, 82100, ΧΙΟΣ - 1ος Όροφος",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.38408661",
-                "Longitude": "26.13307027"
+                "Longitude": "26.13307027",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/9ο Δημοτικό/9ο Δημοτικό όροφος.pdf'
             },
             {
                 "eklogiko_tmima": "110Α",
@@ -1487,7 +1527,8 @@ export const diamerismata = [
                 "katastima": "9ο Δημοτικό Σχολείο - Καρράδειο - Φόρος - Ιωάννη Καρρά 1, 82100, ΧΙΟΣ - 1ος Όροφος",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.38404897",
-                "Longitude": "26.1330856"
+                "Longitude": "26.1330856",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/9ο Δημοτικό/9ο Δημοτικό όροφος.pdf'
             },
             {
                 "eklogiko_tmima": "110Β",
@@ -1497,7 +1538,8 @@ export const diamerismata = [
                 "katastima": "9ο Δημοτικό Σχολείο - Καρράδειο - Φόρος - Ιωάννη Καρρά 1, 82100, ΧΙΟΣ - 1ος Όροφος",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.38399534",
-                "Longitude": "26.13311387"
+                "Longitude": "26.13311387",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/9ο Δημοτικό/9ο Δημοτικό όροφος.pdf'
             },
             {
                 "eklogiko_tmima": "111Α",
@@ -1507,7 +1549,8 @@ export const diamerismata = [
                 "katastima": "4ο Γυμνάσιο Χίου - Λέτσαινα - Νικολάου Ζαφειράκη - Παναγία Λέτσαινα, 82100, ΧΙΟΣ - Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.38031691",
-                "Longitude": "26.13617649"
+                "Longitude": "26.13617649",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/4o Γυμνάσιο/4ο Γυμνάσιο ισογειο.pdf'
             },
             {
                 "eklogiko_tmima": "111Β",
@@ -1517,7 +1560,8 @@ export const diamerismata = [
                 "katastima": "4ο Γυμνάσιο Χίου - Λέτσαινα - Νικολάου Ζαφειράκη - Παναγία Λέτσαινα, 82100, ΧΙΟΣ - Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.38033048",
-                "Longitude": "26.13627525"
+                "Longitude": "26.13627525",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/4o Γυμνάσιο/4ο Γυμνάσιο ισογειο.pdf'
             },
             {
                 "eklogiko_tmima": "112Α",
@@ -1527,7 +1571,8 @@ export const diamerismata = [
                 "katastima": "4ο Γυμνάσιο Χίου - Λέτσαινα - Νικολάου Ζαφειράκη - Παναγία Λέτσαινα, 82100, ΧΙΟΣ - 1ος Όροφος",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.38036618",
-                "Longitude": "26.13626411"
+                "Longitude": "26.13626411",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/4o Γυμνάσιο/4ο Γυμνάσιο όροφος.pdf'
             },
             {
                 "eklogiko_tmima": "112Β",
@@ -1537,7 +1582,8 @@ export const diamerismata = [
                 "katastima": "4ο Γυμνάσιο Χίου - Λέτσαινα - Νικολάου Ζαφειράκη - Παναγία Λέτσαινα, 82100, ΧΙΟΣ - 1ος Όροφος",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.38045284",
-                "Longitude": "26.1362334"
+                "Longitude": "26.1362334",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/4o Γυμνάσιο/4ο Γυμνάσιο όροφος.pdf'
             },
             {
                 "eklogiko_tmima": "113Α",
@@ -1547,7 +1593,8 @@ export const diamerismata = [
                 "katastima": "Εργατικό Κέντρο Χίου - Μαρτύρων 2, 82100, ΧΙΟΣ",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.37249546",
-                "Longitude": "26.13468001"
+                "Longitude": "26.13468001",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/Εργατικό κέντρο/Σκαρίφημα εργατικό κέντρο.pdf'
             },
             {
                 "eklogiko_tmima": "113Β",
@@ -1557,7 +1604,8 @@ export const diamerismata = [
                 "katastima": "Εργατικό Κέντρο Χίου - Μαρτύρων 2, 82100, ΧΙΟΣ",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.37259788",
-                "Longitude": "26.13465687"
+                "Longitude": "26.13465687",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/Εργατικό κέντρο/Σκαρίφημα εργατικό κέντρο.pdf'
             },
             {
                 "eklogiko_tmima": "114Α",
@@ -1567,7 +1615,8 @@ export const diamerismata = [
                 "katastima": "Σχολή Μηχανικών Χίου (Α.Ε.Ν. / Χίου) - Δημοκρατίας 26, 82100, ΧΙΟΣ",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.37324133",
-                "Longitude": "26.13312248"
+                "Longitude": "26.13312248",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/Σχολή Μηχανικών Χίου/Σκαρίφημα Σχολή Μηχανικών Χίου.pdf'
             },
             {
                 "eklogiko_tmima": "114Β",
@@ -1577,7 +1626,8 @@ export const diamerismata = [
                 "katastima": "Σχολή Μηχανικών Χίου (Α.Ε.Ν. / Χίου) - Δημοκρατίας 26, 82100, ΧΙΟΣ",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.37330499",
-                "Longitude": "26.13318704"
+                "Longitude": "26.13318704",
+                "link": 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/Σχολή Μηχανικών Χίου/Σκαρίφημα Σχολή Μηχανικών Χίου.pdf'
             },
             {
                 "eklogiko_tmima": "115Α",
@@ -1587,7 +1637,8 @@ export const diamerismata = [
                 "katastima": "3ο & 8ο Δημοτικό Σχολείο Βουνακίου - Αρχιεπισκόπου Μακαρίου 19, 82100, ΧΙΟΣ Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.3764407",
-                "Longitude": "26.13475883"
+                "Longitude": "26.13475883",
+                'link': 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/3o 8o Δημοτικό/3o-8o Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "115Β",
@@ -1597,7 +1648,8 @@ export const diamerismata = [
                 "katastima": "3ο & 8ο Δημοτικό Σχολείο Βουνακίου - Αρχιεπισκόπου Μακαρίου 19 82100, ΧΙΟΣ Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.3764212",
-                "Longitude": "26.13487735"
+                "Longitude": "26.13487735",
+                'link': 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/3o 8o Δημοτικό/3o-8o Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "116Α",
@@ -1607,7 +1659,8 @@ export const diamerismata = [
                 "katastima": "3ο & 8ο Δημοτικό Σχολείο Βουνακίου - Αρχιεπισκόπου Μακαρίου 19, 82100, ΧΙΟΣ Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.37648869",
-                "Longitude": "26.13502977"
+                "Longitude": "26.13502977",
+                'link': 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/3o 8o Δημοτικό/3o-8o Δημοτικό.pdf'
             },
             {
                 "eklogiko_tmima": "116Β",
@@ -1617,7 +1670,8 @@ export const diamerismata = [
                 "katastima": "3ο & 8ο Δημοτικό Σχολείο Βουνακίου - Αρχιεπισκόπου Μακαρίου 19, 82100, ΧΙΟΣ Ισόγειο",
                 "katopsi": "ΝΑΙ",
                 "Latitude": "38.37657958",
-                "Longitude": "26.13504489"
+                "Longitude": "26.13504489",
+                'link': 'assets/pdfs/Χίος/1ο Εκλογικό διαμέρισμα/3o 8o Δημοτικό/3o-8o Δημοτικό.pdf'
             }]
     },
     {
@@ -1629,7 +1683,8 @@ export const diamerismata = [
             "katastima": "1ο Γυμνάσιο Χίου - Ψυχάρη, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36826698",
-            "Longitude": "26.13636819"
+            "Longitude": "26.13636819",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Γυμνάσιο/1ο Γυμνασιο Ισόγειο.pdf'
         },
         {
             "eklogiko_tmima": "117Β",
@@ -1639,7 +1694,8 @@ export const diamerismata = [
             "katastima": "1ο Γυμνάσιο Χίου - Ψυχάρη, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36824398",
-            "Longitude": "26.13636162"
+            "Longitude": "26.13636162",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Γυμνάσιο/1ο Γυμνασιο Ισόγειο.pdf'
         },
         {
             "eklogiko_tmima": "118Α",
@@ -1649,7 +1705,8 @@ export const diamerismata = [
             "katastima": "1ο Γυμνάσιο Χίου - Κοραή, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36812102",
-            "Longitude": "26.13604353"
+            "Longitude": "26.13604353",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Γυμνάσιο/1ο Γυμνασιο Όροφος.pdf'
         },
         {
             "eklogiko_tmima": "118Β",
@@ -1659,7 +1716,8 @@ export const diamerismata = [
             "katastima": "1ο Γυμνάσιο Χίου - Κοραή, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36817291",
-            "Longitude": "26.13605637"
+            "Longitude": "26.13605637",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Γυμνάσιο/1ο Γυμνασιο Όροφος.pdf'
         },
         {
             "eklogiko_tmima": "119Α",
@@ -1669,7 +1727,8 @@ export const diamerismata = [
             "katastima": "1ο Γυμνάσιο Χίου - Κοραή, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36807958",
-            "Longitude": "26.13630249"
+            "Longitude": "26.13630249",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Γυμνάσιο/1ο Γυμνασιο Όροφος.pdf'
         },
         {
             "eklogiko_tmima": "119Β",
@@ -1679,7 +1738,8 @@ export const diamerismata = [
             "katastima": "1ο Γυμνάσιο Χίου - Κοραή, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36813577",
-            "Longitude": "26.1363196"
+            "Longitude": "26.1363196",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Γυμνάσιο/1ο Γυμνασιο Όροφος.pdf'
         },
         {
             "eklogiko_tmima": "120Α",
@@ -1689,7 +1749,8 @@ export const diamerismata = [
             "katastima": "1ο Γυμνάσιο Χίου - Κοραή, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36824135",
-            "Longitude": "26.13607114"
+            "Longitude": "26.13607114",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Γυμνάσιο/1ο Γυμνασιο Όροφος.pdf'
         },
         {
             "eklogiko_tmima": "120Β",
@@ -1699,7 +1760,8 @@ export const diamerismata = [
             "katastima": "1ο Γυμνάσιο Χίου - Κοραή, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36820115",
-            "Longitude": "26.13633532"
+            "Longitude": "26.13633532",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Γυμνάσιο/1ο Γυμνασιο Όροφος.pdf'
         },
         {
             "eklogiko_tmima": "121Α",
@@ -1709,7 +1771,8 @@ export const diamerismata = [
             "katastima": "3ο Γυμνάσιο Χίου - Ψυχάρη, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36832176",
-            "Longitude": "26.13657002"
+            "Longitude": "26.13657002",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/3ο Γυμνάσιο/3ο Γυμνασιο.pdf'
         },
         {
             "eklogiko_tmima": "121Β",
@@ -1719,7 +1782,8 @@ export const diamerismata = [
             "katastima": "3ο Γυμνάσιο Χίου - Ψυχάρη, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36839636",
-            "Longitude": "26.13654224"
+            "Longitude": "26.13654224",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/3ο Γυμνάσιο/3ο Γυμνασιο.pdf'
         },
         {
             "eklogiko_tmima": "122Α",
@@ -1729,7 +1793,8 @@ export const diamerismata = [
             "katastima": "3ο Γυμνάσιο Χίου - Ψυχάρη, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.3683693",
-            "Longitude": "26.13669398"
+            "Longitude": "26.13669398",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/3ο Γυμνάσιο/3ο Γυμνασιο.pdf'
         },
         {
             "eklogiko_tmima": "122Β",
@@ -1739,7 +1804,8 @@ export const diamerismata = [
             "katastima": "3ο Γυμνάσιο Χίου - Ψυχάρη, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36838986",
-            "Longitude": "26.13676996"
+            "Longitude": "26.13676996",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/3ο Γυμνάσιο/3ο Γυμνασιο.pdf'
         },
         {
             "eklogiko_tmima": "123Α",
@@ -1749,7 +1815,8 @@ export const diamerismata = [
             "katastima": "3ο Γυμνάσιο Χίου - Ψυχάρη, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36823653",
-            "Longitude": "26.13698664"
+            "Longitude": "26.13698664",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/3ο Γυμνάσιο/3ο Γυμνασιο.pdf'
         },
         {
             "eklogiko_tmima": "123Β",
@@ -1759,7 +1826,8 @@ export const diamerismata = [
             "katastima": "3ο Γυμνάσιο Χίου - Ψυχάρη, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36814478",
-            "Longitude": "26.13705871"
+            "Longitude": "26.13705871",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/3ο Γυμνάσιο/3ο Γυμνασιο.pdf'
         },
         {
             "eklogiko_tmima": "124Α",
@@ -1769,7 +1837,8 @@ export const diamerismata = [
             "katastima": "11ο Δημοτικό Σχολείο Χίου - Ζολώτα 2, 82100, ΧΙΟΣ - 1ος Οροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36822166",
-            "Longitude": "26.1357795"
+            "Longitude": "26.1357795",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/11ο Δημοτικό/11ο Δημοτικό.pdf'
         },
         {
             "eklogiko_tmima": "124Β",
@@ -1779,7 +1848,8 @@ export const diamerismata = [
             "katastima": "11ο Δημοτικό Σχολείο Χίου - Ζολώτα 2, 82100, ΧΙΟΣ - 1ος Οροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36821264",
-            "Longitude": "26.13572775"
+            "Longitude": "26.13572775",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/11ο Δημοτικό/11ο Δημοτικό.pdf'
         },
         {
             "eklogiko_tmima": "125Α",
@@ -1789,7 +1859,8 @@ export const diamerismata = [
             "katastima": "11ο Δημοτικό Σχολείο Χίου - Ζολώτα 2, 82100, ΧΙΟΣ - 1ος Οροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.3683347",
-            "Longitude": "26.13576982"
+            "Longitude": "26.13576982",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/11ο Δημοτικό/11ο Δημοτικό.pdf'
         },
         {
             "eklogiko_tmima": "125Β",
@@ -1799,7 +1870,8 @@ export const diamerismata = [
             "katastima": "11ο Δημοτικό Σχολείο Χίου - Ζολώτα 2, 82100, ΧΙΟΣ - 1ος Οροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36832965",
-            "Longitude": "26.13571395"
+            "Longitude": "26.13571395",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/11ο Δημοτικό/11ο Δημοτικό.pdf'
         },
         {
             "eklogiko_tmima": "126Α",
@@ -1809,7 +1881,8 @@ export const diamerismata = [
             "katastima": "6ο Δημοτικό Σχολείο Χίου - Ιωάννου Πατέρα 3, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36593549",
-            "Longitude": "26.13197846"
+            "Longitude": "26.13197846",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/6ο Δημοτικό/6o Δημοτικό εκλογικά.pdf'
         },
         {
             "eklogiko_tmima": "126Β",
@@ -1819,7 +1892,8 @@ export const diamerismata = [
             "katastima": "6ο Δημοτικό Σχολείο Χίου - Ιωάννου Πατέρα 3, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36603015",
-            "Longitude": "26.13198708"
+            "Longitude": "26.13198708",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/6ο Δημοτικό/6o Δημοτικό εκλογικά.pdf'
         },
         {
             "eklogiko_tmima": "127Α",
@@ -1829,7 +1903,8 @@ export const diamerismata = [
             "katastima": "6ο Δημοτικό Σχολείο Χίου - Ιωάννου Πατέρα 3, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.3659247",
-            "Longitude": "26.13221042"
+            "Longitude": "26.13221042",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/6ο Δημοτικό/6o Δημοτικό εκλογικά.pdf'
         },
         {
             "eklogiko_tmima": "127Β",
@@ -1839,7 +1914,8 @@ export const diamerismata = [
             "katastima": "6ο Δημοτικό Σχολείο Χίου - Ιωάννου Πατέρα 3, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36602166",
-            "Longitude": "26.13207462"
+            "Longitude": "26.13207462",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/6ο Δημοτικό/6o Δημοτικό εκλογικά.pdf'
         },
         {
             "eklogiko_tmima": "128Α",
@@ -1849,7 +1925,8 @@ export const diamerismata = [
             "katastima": "6ο Δημοτικό Σχολείο Χίου - Ιωάννου Πατέρα 3, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36599683",
-            "Longitude": "26.13233393"
+            "Longitude": "26.13233393",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/6ο Δημοτικό/6o Δημοτικό εκλογικά.pdf'
         },
         {
             "eklogiko_tmima": "128Β",
@@ -1859,7 +1936,8 @@ export const diamerismata = [
             "katastima": "6ο Δημοτικό Σχολείο Χίου - Ιωάννου Πατέρα 3, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36591273",
-            "Longitude": "26.13232048"
+            "Longitude": "26.13232048",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/6ο Δημοτικό/6o Δημοτικό εκλογικά.pdf'
         },
         {
             "eklogiko_tmima": "129Α",
@@ -1869,7 +1947,8 @@ export const diamerismata = [
             "katastima": "7ο Δημοτικό Σχολείο Αγίου Θωμά - Παρθενίου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.37055917",
-            "Longitude": "26.13058282"
+            "Longitude": "26.13058282",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/7ο ΔΗΜΟΤΙΚΌ/7ο Δημοτικό Ισόγειο.pdf'
         },
         {
             "eklogiko_tmima": "129Β",
@@ -1879,7 +1958,8 @@ export const diamerismata = [
             "katastima": "7ο Δημοτικό Σχολείο Αγίου Θωμά - Παρθενίου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.37056049",
-            "Longitude": "26.13064181"
+            "Longitude": "26.13064181",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/7ο ΔΗΜΟΤΙΚΌ/7ο Δημοτικό Ισόγειο.pdf'
         },
         {
             "eklogiko_tmima": "130Α",
@@ -1889,7 +1969,8 @@ export const diamerismata = [
             "katastima": "7ο Δημοτικό Σχολείο Αγίου Θωμά - Παρθενίου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.37055971",
-            "Longitude": "26.13070254"
+            "Longitude": "26.13070254",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/7ο ΔΗΜΟΤΙΚΌ/7ο Δημοτικό Ισόγειο.pdf'
         },
         {
             "eklogiko_tmima": "130Β",
@@ -1899,7 +1980,8 @@ export const diamerismata = [
             "katastima": "7ο Δημοτικό Σχολείο Αγίου Θωμά - Παρθενίου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.37056155",
-            "Longitude": "26.13076722"
+            "Longitude": "26.13076722",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/7ο ΔΗΜΟΤΙΚΌ/7ο Δημοτικό Ισόγειο.pdf'
         },
         {
             "eklogiko_tmima": "131Α",
@@ -1909,7 +1991,8 @@ export const diamerismata = [
             "katastima": "7ο Δημοτικό Σχολείο Αγίου Θωμά - Παρθενίου, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.37061517",
-            "Longitude": "26.1305947"
+            "Longitude": "26.1305947",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/7ο ΔΗΜΟΤΙΚΌ/7ο Δημοτικό όροφος.pdf'
         },
         {
             "eklogiko_tmima": "131Β",
@@ -1919,7 +2002,8 @@ export const diamerismata = [
             "katastima": "7ο Δημοτικό Σχολείο Αγίου Θωμά - Παρθενίου, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.37061578",
-            "Longitude": "26.13065266"
+            "Longitude": "26.13065266",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/7ο ΔΗΜΟΤΙΚΌ/7ο Δημοτικό όροφος.pdf'
         },
         {
             "eklogiko_tmima": "132Α",
@@ -1929,7 +2013,8 @@ export const diamerismata = [
             "katastima": "7ο Δημοτικό Σχολείο Αγίου Θωμά - Παρθενίου, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.37061519",
-            "Longitude": "26.13071283"
+            "Longitude": "26.13071283",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/7ο ΔΗΜΟΤΙΚΌ/7ο Δημοτικό όροφος.pdf'
         },
         {
             "eklogiko_tmima": "132Β",
@@ -1939,7 +2024,8 @@ export const diamerismata = [
             "katastima": "7ο Δημοτικό Σχολείο Αγίου Θωμά - Παρθενίου, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.37061611",
-            "Longitude": "26.1307808"
+            "Longitude": "26.1307808",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/7ο ΔΗΜΟΤΙΚΌ/7ο Δημοτικό όροφος.pdf'
         },
         {
             "eklogiko_tmima": "133Α",
@@ -1949,7 +2035,8 @@ export const diamerismata = [
             "katastima": "2ο Ενιαίο Λύκειο Χίου - Μεσολογγίτου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36507408",
-            "Longitude": "26.13418196"
+            "Longitude": "26.13418196",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/2ο Λυκειο/2ο Λύκειο.pdf'
         },
         {
             "eklogiko_tmima": "133Β",
@@ -1959,7 +2046,8 @@ export const diamerismata = [
             "katastima": "2ο Ενιαίο Λύκειο Χίου - Μεσολογγίτου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36505777",
-            "Longitude": "26.13427021"
+            "Longitude": "26.13427021",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/2ο Λυκειο/2ο Λύκειο.pdf'
         },
         {
             "eklogiko_tmima": "134Α",
@@ -1969,7 +2057,8 @@ export const diamerismata = [
             "katastima": "2ο Ενιαίο Λύκειο Χίου - Μεσολογγίτου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36503023",
-            "Longitude": "26.13447316"
+            "Longitude": "26.13447316",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/2ο Λυκειο/2ο Λύκειο.pdf'
         },
         {
             "eklogiko_tmima": "134Β",
@@ -1979,7 +2068,8 @@ export const diamerismata = [
             "katastima": "2ο Ενιαίο Λύκειο Χίου - Μεσολογγίτου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36488998",
-            "Longitude": "26.13455482"
+            "Longitude": "26.13455482",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/2ο Λυκειο/2ο Λύκειο.pdf'
         },
         {
             "eklogiko_tmima": "135Α",
@@ -1989,7 +2079,8 @@ export const diamerismata = [
             "katastima": "2ο Ενιαίο Λύκειο Χίου - Μεσολογγίτου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36495892",
-            "Longitude": "26.13456377"
+            "Longitude": "26.13456377",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/2ο Λυκειο/2ο Λύκειο.pdf'
         },
         {
             "eklogiko_tmima": "135Β",
@@ -1999,7 +2090,8 @@ export const diamerismata = [
             "katastima": "2ο Ενιαίο Λύκειο Χίου - Μεσολογγίτου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36501811",
-            "Longitude": "26.1345687"
+            "Longitude": "26.1345687",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/2ο Λυκειο/2ο Λύκειο.pdf'
         },
         {
             "eklogiko_tmima": "136Α",
@@ -2009,7 +2101,8 @@ export const diamerismata = [
             "katastima": "2ο Γυμνάσιο Χίου -  οδός Ρίτσου 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36498741",
-            "Longitude": "26.13378358"
+            "Longitude": "26.13378358",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/2ο Γυμνάσιο/2o Γυμνάσιο.pdf'
         },
         {
             "eklogiko_tmima": "136Β",
@@ -2019,7 +2112,8 @@ export const diamerismata = [
             "katastima": "2ο Γυμνάσιο Χίου -  οδός Ρίτσου 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36493103",
-            "Longitude": "26.13376165"
+            "Longitude": "26.13376165",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/2ο Γυμνάσιο/2o Γυμνάσιο.pdf'
         },
         {
             "eklogiko_tmima": "137Α",
@@ -2029,7 +2123,8 @@ export const diamerismata = [
             "katastima": "2ο Γυμνάσιο Χίου -  οδός Ρίτσου 82100, ΧΙΟΣ - 1ος όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36479388",
-            "Longitude": "26.13370238"
+            "Longitude": "26.13370238",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/2ο Γυμνάσιο/2o Γυμνάσιο.pdf'
         },
         {
             "eklogiko_tmima": "137Β",
@@ -2039,7 +2134,8 @@ export const diamerismata = [
             "katastima": "2ο Γυμνάσιο Χίου -  οδός Ρίτσου 82100, ΧΙΟΣ - 1ος όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36474828",
-            "Longitude": "26.13368354"
+            "Longitude": "26.13368354",
+            "link": 'assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/2ο Γυμνάσιο/2o Γυμνάσιο.pdf'
         },
         {
             "eklogiko_tmima": "138Α",
@@ -2049,7 +2145,8 @@ export const diamerismata = [
             "katastima": "1ο Δημοτικό Σχολείο Χίου - Ιωάννου Πατέρα 8, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36617935",
-            "Longitude": "26.13134046"
+            "Longitude": "26.13134046",
+            "link": "assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Δημοτικό/1o Δημοτικό.pdf"
         },
         {
             "eklogiko_tmima": "138Β",
@@ -2059,7 +2156,8 @@ export const diamerismata = [
             "katastima": "1ο Δημοτικό Σχολείο Χίου - Ιωάννου Πατέρα 8, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.3661699",
-            "Longitude": "26.1314185"
+            "Longitude": "26.1314185",
+            "link": "assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Δημοτικό/1o Δημοτικό.pdf"
         },
         {
             "eklogiko_tmima": "139Α",
@@ -2069,7 +2167,8 @@ export const diamerismata = [
             "katastima": "1ο Δημοτικό Σχολείο Χίου - Ιωάννου Πατέρα 8, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36616356",
-            "Longitude": "26.13151327"
+            "Longitude": "26.13151327",
+            "link": "assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Δημοτικό/1o Δημοτικό.pdf"
         },
         {
             "eklogiko_tmima": "139Β",
@@ -2079,7 +2178,8 @@ export const diamerismata = [
             "katastima": "1ο Δημοτικό Σχολείο Χίου - Ιωάννου Πατέρα 8, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36615431",
-            "Longitude": "26.13158345"
+            "Longitude": "26.13158345",
+            "link": "assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Δημοτικό/1o Δημοτικό.pdf"
         },
         {
             "eklogiko_tmima": "140Α",
@@ -2089,7 +2189,8 @@ export const diamerismata = [
             "katastima": "1ο Δημοτικό Σχολείο Χίου - Ιωάννου Πατέρα 8, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36614983",
-            "Longitude": "26.1316637"
+            "Longitude": "26.1316637",
+            "link": "assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Δημοτικό/1o Δημοτικό.pdf"
         },
         {
             "eklogiko_tmima": "140Β",
@@ -2099,11 +2200,12 @@ export const diamerismata = [
             "katastima": "1ο Δημοτικό Σχολείο Χίου - Ιωάννου Πατέρα 8, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36614488",
-            "Longitude": "26.13174723"
+            "Longitude": "26.13174723",
+            "link": "assets/pdfs/Χίος/2ο Εκλογικό διαμέρισμα/1ο Δημοτικό/1o Δημοτικό.pdf"
         }]
     },
     {
-        name: '1ο Εκλ. Διαμερ. Χίου', data: [{
+        name: '3ο Εκλ. Διαμερ. Χίου', data: [{
             "eklogiko_tmima": "141Α",
             "dimotiki_enotita": "ΧΙΟΥ - ΧΙΟΥ",
             "eklogiko_diamerisma": "3ο ΕΚΛ. ΔΙΑΜΕΡ. ΔΗΜΟΥ ΧΙΟΥ",
@@ -2111,7 +2213,8 @@ export const diamerismata = [
             "katastima": "2ο Δημοτικό Σχολείο Χίου - Μιχάλων 9, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36504443",
-            "Longitude": "26.14009214"
+            "Longitude": "26.14009214",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/2o Δημοτικό/2ο Δημοτικό Ισόγειο.pdf'
         },
         {
             "eklogiko_tmima": "141Β",
@@ -2121,7 +2224,8 @@ export const diamerismata = [
             "katastima": "2ο Δημοτικό Σχολείο Χίου - Μιχάλων 9, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36504837",
-            "Longitude": "26.14014768"
+            "Longitude": "26.14014768",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/2o Δημοτικό/2ο Δημοτικό Ισόγειο.pdf'
         },
         {
             "eklogiko_tmima": "142Α",
@@ -2131,7 +2235,8 @@ export const diamerismata = [
             "katastima": "2ο Δημοτικό Σχολείο Χίου - Μιχάλων 9, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.3650939",
-            "Longitude": "26.14040189"
+            "Longitude": "26.14040189",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/2o Δημοτικό/2ο Δημοτικό Ισόγειο.pdf'
         },
         {
             "eklogiko_tmima": "142Β",
@@ -2141,7 +2246,8 @@ export const diamerismata = [
             "katastima": "2ο Δημοτικό Σχολείο Χίου - Μιχάλων 9, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36501981",
-            "Longitude": "26.1403671"
+            "Longitude": "26.1403671",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/2o Δημοτικό/2ο Δημοτικό Ισόγειο.pdf'
         },
         {
             "eklogiko_tmima": "143Α",
@@ -2151,7 +2257,8 @@ export const diamerismata = [
             "katastima": "2ο Δημοτικό Σχολείο Χίου - Μιχάλων 9, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36503977",
-            "Longitude": "26.13996871"
+            "Longitude": "26.13996871",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/2o Δημοτικό/2ο Δημοτικό Όροφος.pdf'
         },
         {
             "eklogiko_tmima": "143Β",
@@ -2161,7 +2268,8 @@ export const diamerismata = [
             "katastima": "2ο Δημοτικό Σχολείο Χίου - Μιχάλων 9, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36504291",
-            "Longitude": "26.14002702"
+            "Longitude": "26.14002702",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/2o Δημοτικό/2ο Δημοτικό Όροφος.pdf'
         },
         {
             "eklogiko_tmima": "144Α",
@@ -2171,7 +2279,8 @@ export const diamerismata = [
             "katastima": "2ο Δημοτικό Σχολείο Χίου - Μιχάλων 9, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36505405",
-            "Longitude": "26.14020979"
+            "Longitude": "26.14020979",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/2o Δημοτικό/2ο Δημοτικό Όροφος.pdf'
         },
         {
             "eklogiko_tmima": "144Β",
@@ -2181,7 +2290,8 @@ export const diamerismata = [
             "katastima": "2ο Δημοτικό Σχολείο Χίου - Μιχάλων 9, 82100, ΧΙΟΣ - 1ος Όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36514661",
-            "Longitude": "26.14018047"
+            "Longitude": "26.14018047",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/2o Δημοτικό/2ο Δημοτικό Όροφος.pdf'
         },
         {
             "eklogiko_tmima": "145Α",
@@ -2191,7 +2301,8 @@ export const diamerismata = [
             "katastima": "1ο ΕΠΑΛ - Μιχάλων 5, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36565548",
-            "Longitude": "26.14030271"
+            "Longitude": "26.14030271",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/ΕΠΑΛ/ΕΠΑΛ.pdf'
         },
         {
             "eklogiko_tmima": "145Β",
@@ -2201,7 +2312,8 @@ export const diamerismata = [
             "katastima": "1ο ΕΠΑΛ - Μιχάλων 5, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36561666",
-            "Longitude": "26.14027924"
+            "Longitude": "26.14027924",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/ΕΠΑΛ/ΕΠΑΛ.pdf'
         },
         {
             "eklogiko_tmima": "146Α",
@@ -2211,7 +2323,8 @@ export const diamerismata = [
             "katastima": "1ο ΕΠΑΛ - Μιχάλων 5, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.36557787",
-            "Longitude": "26.14025551"
+            "Longitude": "26.14025551",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/ΕΠΑΛ/ΕΠΑΛ.pdf'
         },
         {
             "eklogiko_tmima": "146Β",
@@ -2221,7 +2334,8 @@ export const diamerismata = [
             "katastima": "1ο ΕΠΑΛ - Μιχάλων 5, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.3655429",
-            "Longitude": "26.1402326"
+            "Longitude": "26.1402326",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/ΕΠΑΛ/ΕΠΑΛ.pdf'
         },
         {
             "eklogiko_tmima": "147Α",
@@ -2231,7 +2345,8 @@ export const diamerismata = [
             "katastima": "5ο Δημοτικό Σχολείο Βαρβασίου - 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.35674666",
-            "Longitude": "26.13286786"
+            "Longitude": "26.13286786",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/5ο Δημοτικό/5ο Δημοτικό Ισόγειο.pdf'
         },
         {
             "eklogiko_tmima": "147Β",
@@ -2241,7 +2356,8 @@ export const diamerismata = [
             "katastima": "5ο Δημοτικό Σχολείο Βαρβασίου - 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.35675377",
-            "Longitude": "26.13296845"
+            "Longitude": "26.13296845",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/5ο Δημοτικό/5ο Δημοτικό Ισόγειο.pdf'
         },
         {
             "eklogiko_tmima": "148Α",
@@ -2251,7 +2367,8 @@ export const diamerismata = [
             "katastima": "5ο Δημοτικό Σχολείο Βαρβασίου - 82100, ΧΙΟΣ - 1ος όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.35678339",
-            "Longitude": "26.1328731"
+            "Longitude": "26.1328731",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/5ο Δημοτικό/5ο Δημοτικό όροφος.pdf'
         },
         {
             "eklogiko_tmima": "148Β",
@@ -2261,7 +2378,8 @@ export const diamerismata = [
             "katastima": "5ο Δημοτικό Σχολείο Βαρβασίου - 82100, ΧΙΟΣ - 1ος όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.35678695",
-            "Longitude": "26.13296659"
+            "Longitude": "26.13296659",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/5ο Δημοτικό/5ο Δημοτικό όροφος.pdf'
         },
         {
             "eklogiko_tmima": "149Α",
@@ -2271,7 +2389,8 @@ export const diamerismata = [
             "katastima": "5ο Δημοτικό Σχολείο Βαρβασίου - 82100, ΧΙΟΣ - 1ος όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.35679037",
-            "Longitude": "26.13306776"
+            "Longitude": "26.13306776",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/5ο Δημοτικό/5ο Δημοτικό όροφος.pdf'
         },
         {
             "eklogiko_tmima": "149Β",
@@ -2281,7 +2400,8 @@ export const diamerismata = [
             "katastima": "5ο Δημοτικό Σχολείο Βαρβασίου - 82100, ΧΙΟΣ - 1ος όροφος",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.35679223",
-            "Longitude": "26.13314919"
+            "Longitude": "26.13314919",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/5ο Δημοτικό/5ο Δημοτικό όροφος.pdf'
         },
         {
             "eklogiko_tmima": "150Α",
@@ -2291,7 +2411,8 @@ export const diamerismata = [
             "katastima": "3ο Ενιαίο Λύκειο Χίου (Πρώην Ενιαίο Πολυκλαδικό Λύκειο Χίου) - 28ης Οκτωβρίου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.35397388",
-            "Longitude": "26.13218268"
+            "Longitude": "26.13218268",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/3ο Ενιαίο Λύκειο Χίου/3o Ενιαίο.pdf'
         },
         {
             "eklogiko_tmima": "150Β",
@@ -2301,7 +2422,8 @@ export const diamerismata = [
             "katastima": "3ο Ενιαίο Λύκειο Χίου (Πρώην Ενιαίο Πολυκλαδικό Λύκειο Χίου) - 28ης Οκτωβρίου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.35406423",
-            "Longitude": "26.13217659"
+            "Longitude": "26.13217659",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/3ο Ενιαίο Λύκειο Χίου/3o Ενιαίο.pdf'
         },
         {
             "eklogiko_tmima": "151Α",
@@ -2311,7 +2433,8 @@ export const diamerismata = [
             "katastima": "3ο Ενιαίο Λύκειο Χίου (Πρώην Ενιαίο Πολυκλαδικό Λύκειο Χίου) - 28ης Οκτωβρίου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.35395855",
-            "Longitude": "26.13208233"
+            "Longitude": "26.13208233",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/3ο Ενιαίο Λύκειο Χίου/3o Ενιαίο.pdf'
         },
         {
             "eklogiko_tmima": "151Β",
@@ -2321,7 +2444,8 @@ export const diamerismata = [
             "katastima": "3ο Ενιαίο Λύκειο Χίου (Πρώην Ενιαίο Πολυκλαδικό Λύκειο Χίου) - 28ης Οκτωβρίου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.3540533",
-            "Longitude": "26.13206837"
+            "Longitude": "26.13206837",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/3ο Ενιαίο Λύκειο Χίου/3o Ενιαίο.pdf'
         },
         {
             "eklogiko_tmima": "152Α",
@@ -2331,7 +2455,8 @@ export const diamerismata = [
             "katastima": "3ο Ενιαίο Λύκειο Χίου (Πρώην Ενιαίο Πολυκλαδικό Λύκειο Χίου) - 28ης Οκτωβρίου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.35395043",
-            "Longitude": "26.13193694"
+            "Longitude": "26.13193694",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/3ο Ενιαίο Λύκειο Χίου/3o Ενιαίο.pdf'
         },
         {
             "eklogiko_tmima": "152Β",
@@ -2341,7 +2466,8 @@ export const diamerismata = [
             "katastima": "3ο Ενιαίο Λύκειο Χίου (Πρώην Ενιαίο Πολυκλαδικό Λύκειο Χίου) - 28ης Οκτωβρίου, 82100, ΧΙΟΣ - Ισόγειο",
             "katopsi": "ΝΑΙ",
             "Latitude": "38.35405077",
-            "Longitude": "26.13191605"
+            "Longitude": "26.13191605",
+            "link": 'assets/pdfs/Χίος/3ο Εκλογικό διαμέρισμα/3ο Ενιαίο Λύκειο Χίου/3o Ενιαίο.pdf'
         }]
     }, {
         name: 'Ειδ. Εκλ. Τμήμα Κρατουμ. Δικ. Φυλακών Χίου', data: [{

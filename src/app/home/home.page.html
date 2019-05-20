@@ -8,7 +8,8 @@
 
 <ion-content>
   <div class="ion-padding">
-    <ion-button (click)="convertIt()">Press Me!</ion-button>
+    <ion-button (click)="convertIt()" color="tertiary" expand="full" shape="round"
+      href="https://www.ypes.gr/mathe-poy-psifizeis-forma/">Μάθε που ψηφίζεις!</ion-button>
     <h2>Επιλέξτε Δημοτική Ενότητα</h2>
     <ion-list>
       <ion-item *ngFor="let item of diamerismata" (click)='openDiamerisma(item.data, item.name)' detail>
