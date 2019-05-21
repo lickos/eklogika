@@ -38,7 +38,7 @@ export class MapsPage implements AfterContentInit {
       this.mapElement.nativeElement,
       {
         center: this.location,
-        zoom: 12,
+        zoom: 18,
         mapTypeId: 'hybrid'
       });
 
@@ -51,7 +51,8 @@ export class MapsPage implements AfterContentInit {
     let myMarker = new google.maps.Marker({
       position: this.myloc,
       map: this.map,
-      title: 'My marker'
+      title: 'My marker',
+      icon: 'http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png'
     })
 
     myMarker.addListener('click', function () {
@@ -94,7 +95,7 @@ export class MapsPage implements AfterContentInit {
       travelMode: mode
     };
     let directionsService = new google.maps.DirectionsService();
-    let directionsDisplay = new google.maps.DirectionsRenderer();
+    let directionsDisplay = new google.maps.DirectionsRenderer({ suppressMarkers: true });
     directionsDisplay.setMap(this.map);
     directionsService.route(request, function (result, status) {
       if (status == 'OK') {

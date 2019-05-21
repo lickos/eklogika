@@ -16,10 +16,8 @@
         <p text-wrap>{{data.eklogeis}}</p>
         <small text-wrap>{{data.katastima}}</small>
       </ion-label>
-      <a href='{{data.link}}' target="_blank">
-        <ion-button *ngIf='data.katopsi=="ΝΑΙ"' (click)='openDocument(data.link)'>ΚΑΤΟΨΗ
-        </ion-button>
-      </a>
+      <ion-button *ngIf='data.katopsi=="ΝΑΙ"' (click)='openDocument(data.link)'>ΚΑΤΟΨΗ
+      </ion-button>
     </ion-item>
   </ion-list>
 </ion-content>
